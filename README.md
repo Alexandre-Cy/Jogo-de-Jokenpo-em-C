@@ -7,3 +7,4 @@ English:
 In the creation, only variables of type INT were used and the library of random number generation "time.h"
 
 Screenshot:
+![alt text](https://github.com/Alexandre-Cy/Jogo-de-Jokenpo-em-C/blob/main/screenshot.jpg)
